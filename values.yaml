@@ -23,7 +23,7 @@ enable_toleration: false
 
 image:
   repository: docker.io/devnio/nef
-  tag: "1.1.1"
+  tag: "1.1.12"
   pullPolicy: IfNotPresent
 
 service:
